@@ -18,6 +18,8 @@ The following additional hardware is required in order to use the full capabilit
 2. Rotary Encoder
 3. **Common Cathode** RGB LED 4-pins
 4. 10K Ohm Potensiometer
+5. Load Cell (any weight threshold is fine)
+6. HX711 Amplifier
 
 ESP32 boards are not natively supported in Arduino. You can install Arduino ESP32 core from Espressif. The instructions can be found in this [repository](https://github.com/espressif/arduino-esp32).
 
